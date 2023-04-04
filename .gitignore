@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# workspace
+*.code-workspace
+
+# inputs / test input
+input
+test_input
+
+# vscode folder
+.vscode/*
